@@ -4,6 +4,11 @@ This is a translator to english for the constructed language of Oshkan.
 How to use:
 Once you run the application you type in your input for Oshkan -> English then you type enter to convert it, if you would like to translate again you can press enter, if not you can type exit then enter.
 
+How to install:
+Windows: Install the .exe from the releases section and run it
+Macos: Install the .dmg from the releases section and open it, move the OshkanTranslator executable to the applications folder and then eject the disk image (move the readme somewhere else if you want to keep it)
+Linux: Download the source and then consult your favorite search engine on compiling c++
+
 Most Recent Update: 0.1
 This is the first update and includes:
 • Simple Oshkan -> English translations
